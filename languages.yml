@@ -3,8 +3,6 @@ AxisQL:
   color: "#0077CC" 
   extensions:
     - .axisql
-    - .xsql
-    - .sqlbq
   interpreters:
     - axisql 
   tm_scope: source.axisql
