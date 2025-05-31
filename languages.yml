@@ -1,0 +1,12 @@
+AxisQL:
+  type: programming
+  color: "#0077CC" 
+  extensions:
+    - .axisql
+    - .xsql
+    - .sqlbq
+  interpreters:
+    - axisql 
+  tm_scope: source.axisql
+  ace_mode: sql  
+  language_id: 9999  
