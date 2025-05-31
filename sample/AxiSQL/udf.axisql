@@ -1,0 +1,2 @@
+CREATE FUNCTION welcome_message AS CREATE DATABASE hello;
+CALL welcome_message;

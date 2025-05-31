@@ -1,0 +1,6 @@
+CREATE TABLE users (id INT, name TEXT, age INT);
+INSERT INTO users VALUES (1, "Ángel", 25);
+INSERT INTO users VALUES (2, "María", 30);
+INSERT INTO users VALUES (3, "Carlos", 22);
+INSERT INTO users VALUES (4, "Elena", 40);
+INSERT INTO users VALUES (5, "Luis", 30);
