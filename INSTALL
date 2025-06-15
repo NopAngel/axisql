@@ -1,0 +1,29 @@
+Build Instructions for AxiSQL
+
+Dependencies
+============
+- make
+- gcc
+- g++
+- python
+
+Optional
+- binutils
+
+Building From Source
+====================
+Follow the instructions to correctly build AxiSQL
+
+Preparation
+-----------
+
+AxiSQL
+------
+
+1) Clone the repository: Use git clone to clone the repository, cmd: git clone https://github.com/NopAngel/axisql
+
+2) Build the app: Use 'make build' to build the app, keep these things in mind:
+ - OS: Windows 10/11
+ - Install all libraries
+
+3) Run the application: Use a terminal and open the application with the terminal (interpreter only accepts: ".axisql")
